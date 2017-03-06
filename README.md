@@ -36,5 +36,7 @@ Generated Nodes: 71875
 -i INITIAL_CONFIG Initial config as a single number. Ex: -i 342517608
 -f FINAL_CONFIG   Final config as a single number. Ex: -f 123804765
 -a ALGORITHM      Which algorithm to use as a number from 0 to 4, using the order above. Ex using IDFS: -a 2
-
 ```
+
+This project was an assignment for the Artificial Intelligence course.
+
