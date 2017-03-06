@@ -24,14 +24,6 @@ public class EightPuzzleNode {
 		return currentConfig;
 	}
 
-	public int getGreedyNodeValue() {
-		return heuristic;
-	}
-
-	public int getAStarNodeValue() {
-		return DEPTH + heuristic;
-	}
-
 	public byte[] getCurrentConfig() {
 		return currentConfig;
 	}
